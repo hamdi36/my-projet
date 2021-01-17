@@ -1,0 +1,11 @@
+.App{
+    background-image: url("https://st2.depositphotos.com/1747568/11982/v/950/depositphotos_119826600-stock-illustration-polygonal-vector-background-can-be.jpg");
+width: 320px;
+margin: 150px 560px;
+padding: 25px 8px;
+border: 2px solid gray;
+border-radius: 7px;
+}
+.button{
+align-content: center;
+}
